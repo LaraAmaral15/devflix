@@ -1,4 +1,4 @@
-<h1 align="center"> ImersãoDev - Mentalista</h1>
+<h1 align="center"> ImersãoDev - DevFlix</h1>
 <p align="center">
 A ImersãoDev da Alura consiste em 5 aulas gratuitas com grandes referências como Paulo Silveira, Rafaella Ballerini e Guilherme Lima, para criar um portfólio de programas incrível e começar a sua carreira em programação. 
 </p>
